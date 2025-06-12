@@ -1,0 +1,15 @@
+com\example\store\controller\AuthController.class
+com\example\store\controller\ProductController.class
+com\example\store\controller\OrderController.class
+com\example\store\service\OrderService.class
+com\example\store\entity\User.class
+com\example\store\entity\OrderItem.class
+com\example\store\entity\Product.class
+com\example\store\repository\ProductRepository.class
+com\example\store\repository\OrderRepository.class
+com\example\store\service\UserService.class
+com\example\store\service\ProductService.class
+com\example\store\repository\OrderItemRepository.class
+com\example\store\entity\Order.class
+com\example\store\OnlineStoreBackendApplication.class
+com\example\store\repository\UserRepository.class
